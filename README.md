@@ -1,3 +1,3 @@
-# front-en
+# front-end
 
 ## Probando stack de front end
